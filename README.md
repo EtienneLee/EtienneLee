@@ -4,6 +4,8 @@ I'm currently a computer science major at the University of Pennsylvania. I'm br
 
 ## Skills
 - Java
+- Python
+- C
 - OCaml
 - JavaScript/TypeScript
 - React
